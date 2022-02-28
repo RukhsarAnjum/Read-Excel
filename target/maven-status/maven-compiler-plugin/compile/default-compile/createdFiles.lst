@@ -1,0 +1,4 @@
+com\example\days\controller\DayController.class
+com\example\days\service\DayService.class
+com\example\days\WeekMonthDaysApplication.class
+com\example\days\entities\DateBean.class
